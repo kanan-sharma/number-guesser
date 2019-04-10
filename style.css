@@ -1,0 +1,28 @@
+.container
+{
+	background-color: #f1f1f1;
+    width: 80%;
+    padding: 40px;
+    box-shadow: 5px 10px 5px #e1e1e1;
+}
+
+h1 {
+	    font-family: fantasy;
+	    color: #3a7d92;
+
+}
+
+p{
+	font-size: 18px;
+    font-family: initial;
+    color: #0000007a;
+
+}
+#guess-btn {
+	background-color: #3a7d92;
+	color: #e1e1e1;
+}
+#guess-input {
+	    background-color: #1eaedb52;
+
+}
